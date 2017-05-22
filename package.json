@@ -1,0 +1,27 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crisayala16/burger.git"
+  },
+  "author": "Cristopher Ayala Paz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crisayala16/burger/issues"
+  },
+  "homepage": "https://github.com/crisayala16/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.8",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.4"
+  }
+}

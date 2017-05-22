@@ -1,0 +1,21 @@
+body{
+	background: url('Sports.png');
+	padding: 10px;
+}
+form{
+	display: block;
+}
+#burgers-list, #dev-burgers-list{
+	list-style-type: none;
+}
+#dev-burgers-list li{
+	margin: 10px;
+}
+#dev-burgers-list li:hover{
+	color: black;
+}
+#burger-gif{
+	width: 250px;
+	display: block;
+	margin: 0 auto;
+}
